@@ -184,7 +184,7 @@ P rtP_Left = {
   /* Variable: cf_speedCoef
    * Referenced by: '<S17>/cf_speedCoef'
    */
-  10667U,
+  16000U,
 
   /* Variable: t_errDequal
    * Referenced by: '<S20>/t_errDequal'
@@ -342,7 +342,7 @@ P rtP_Left = {
   /* Variable: n_polePairs
    * Referenced by: '<S15>/n_polePairs'
    */
-  15U,
+  10U,
 
   /* Variable: z_ctrlTypSel
    * Referenced by: '<S1>/z_ctrlTypSel'
